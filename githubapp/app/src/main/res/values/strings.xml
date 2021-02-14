@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="toolbar_title_repositories">Github Java Pop</string>
+</resources>
